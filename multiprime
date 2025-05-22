@@ -1,4 +1,4 @@
-package lima;
+package jyothika;
 import java.util.Scanner;
 class multiplication extends Thread{
 	public void run() {
